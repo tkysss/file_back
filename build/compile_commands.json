@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/tkysss/Desktop/exp/file_backup/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  -IC:\\Users\\tkysss\\Desktop\\exp\\file_backup\\.\\include -w -O2 -std=c++17 -lcrypto -o CMakeFiles\\file_backup.dir\\src\\FileBase.cpp.obj -c C:\\Users\\tkysss\\Desktop\\exp\\file_backup\\src\\FileBase.cpp",
+  "file": "C:/Users/tkysss/Desktop/exp/file_backup/src/FileBase.cpp"
+},
+{
+  "directory": "C:/Users/tkysss/Desktop/exp/file_backup/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  -IC:\\Users\\tkysss\\Desktop\\exp\\file_backup\\.\\include -w -O2 -std=c++17 -lcrypto -o CMakeFiles\\file_backup.dir\\src\\Packer.cpp.obj -c C:\\Users\\tkysss\\Desktop\\exp\\file_backup\\src\\Packer.cpp",
+  "file": "C:/Users/tkysss/Desktop/exp/file_backup/src/Packer.cpp"
+},
+{
+  "directory": "C:/Users/tkysss/Desktop/exp/file_backup/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  -IC:\\Users\\tkysss\\Desktop\\exp\\file_backup\\.\\include -w -O2 -std=c++17 -lcrypto -o CMakeFiles\\file_backup.dir\\src\\Task.cpp.obj -c C:\\Users\\tkysss\\Desktop\\exp\\file_backup\\src\\Task.cpp",
+  "file": "C:/Users/tkysss/Desktop/exp/file_backup/src/Task.cpp"
+}
+]
